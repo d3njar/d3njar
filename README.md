@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **many different things.**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript.**
 
 - ⚡ Fun fact **I'm a cat person.**
 
