@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dennis</h1>
 <h3 align="center">A programmer in the works!</h3>
 
+- 🔭 I’m currently working on **many different things.**
+
 - 🌱 I’m currently learning **JavaScript**
 
-- ⚡ Fun fact **I am a cat person.**
+- ⚡ Fun fact **I'm a cat person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
